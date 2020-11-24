@@ -1,5 +1,7 @@
 # BagBot
 
+**NOTE FROM JON:** This readme no longer reflects the behaviour of the bot in this fork.
+
 The bot for my private Discord Server that assigns roles.
 Probably not useful to you, but who knows it might be.
 
